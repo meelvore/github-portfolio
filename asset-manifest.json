@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github-portfolio/static/css/main.f4746a00.css",
+    "main.js": "/github-portfolio/static/js/main.0540f921.js",
+    "static/media/floatingAstronaut.png": "/github-portfolio/static/media/floatingAstronaut.b42be4cff9123f7fe6b8.png",
+    "static/media/laptop.png": "/github-portfolio/static/media/laptop.7b1f54a15f370ee88661.png",
+    "index.html": "/github-portfolio/index.html",
+    "main.f4746a00.css.map": "/github-portfolio/static/css/main.f4746a00.css.map",
+    "main.0540f921.js.map": "/github-portfolio/static/js/main.0540f921.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4746a00.css",
+    "static/js/main.0540f921.js"
+  ]
+}
